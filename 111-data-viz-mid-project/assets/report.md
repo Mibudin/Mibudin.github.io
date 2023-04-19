@@ -478,10 +478,8 @@ loadRawData().then(
 
 ### 圖表結果
 
-
 以下為實際在這個網頁上計算產生出來的長條圖圖表，計算生成過程中的資訊可以直接開起此網頁的開發人員工具查看：
 
-TODO: Show this
 <div class="bar-chart-container" style="height: 3300px;"></div>
 
 使用臺鐵公開資料，進行分析計算，然後輸出以「臺鐵車站站別」作為分類（縱軸），以「其車站對於所有列車之停靠經過比例值」作為其圖示長度（橫軸）之簡易長條圖。
@@ -504,7 +502,7 @@ TODO: Show this
 
 ## 還可能可以觀察什麼
 
-在資料中有更多資訊可以做比較資料項目與維度，例如路線資訊、站等資訊、車種資訊等等。如果往後可以假以互相交叉比較，想必是可以更加有趣。
+在資料中有更多資訊可以做比較資料項目與維度，例如路線資訊、站等資訊、車種資訊等等。如果往後可以加以互相交叉比較，想必是可以更加有趣。
 
 
 <!-- Links -->
@@ -542,10 +540,10 @@ TODO: Show this
 
 [^data_viz_mid_report]: [資料視覺化期中報告要求](https://hospitable-top-f1b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F20a99178-1128-469c-8912-eba69e6aac64%2FD3js-1112-MidTerm.png?id=5a79d83d-172e-416a-9801-f5d266a0dea5&table=block&spaceId=1aef2f48-d0fe-4378-9798-ba578f17fb80&width=600&userId=&cache=v2)，111-2 Data Viz - NCU 資料視覺化
 
-[^tra_station_class]: [臺灣鐵路管理局車站等級 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF%E7%AE%A1%E7%90%86%E5%B1%80%E8%BB%8A%E7%AB%99%E7%AD%89%E7%B4%9A)
+[^tra_station_class]: [臺灣鐵路管理局車站等級 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF%E7%AE%A1%E7%90%86%E5%B1%80%E8%BB%8A%E7%AB%99%E7%AD%89%E7%B4%9A)，維基百科，自由的百科全書
 
-[^tra_circular]: [台鐵觀光列車 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8A)
+[^tra_circular]: [台鐵觀光列車 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8A)，維基百科，自由的百科全書
 
-[^tra_station_fangye]: [枋野車站 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E6%9E%8B%E9%87%8E%E8%BB%8A%E7%AB%99)
+[^tra_station_fangye]: [枋野車站 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E6%9E%8B%E9%87%8E%E8%BB%8A%E7%AB%99)，維基百科，自由的百科全書
 
-[^tra_station_xinma]: [新馬車站 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E9%A6%AC%E8%BB%8A%E7%AB%99)
+[^tra_station_xinma]: [新馬車站 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E9%A6%AC%E8%BB%8A%E7%AB%99)，維基百科，自由的百科全書
