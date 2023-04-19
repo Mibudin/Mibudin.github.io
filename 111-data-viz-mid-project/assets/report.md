@@ -476,8 +476,6 @@ loadRawData().then(
 
 ## 圖表結果說明
 
-### 圖表結果
-
 以下為實際在這個網頁上計算產生出來的長條圖圖表，計算生成過程中的資訊可以直接開起此網頁的開發人員工具查看：
 
 <div class="bar-chart-container" style="height: 3300px;"></div>
