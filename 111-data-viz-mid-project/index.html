@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ncu_data_viz_mid_project</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="./assets/github-markdown-css@5.2.0/github-markdown.css">
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <article id="markdown-body" class="markdown-body"></article>
+
+  <script defer>
+    (() => {
+      const xhr = new XMLHttpRequest();
+      xhr.open("GET", "./assets/report.html", true);
+      xhr.onreadystatechange= function() {
+          if(this.readyState !== 4) return;
+          if(this.status !== 200) return;
+          document.getElementById("markdown-body").innerHTML = this.responseText;
+          // document.getElementById("markdown-body").innerHTML += "<div class=\"bar-chart-container\" style=\"height: 3400px;\"></div>";
+      };
+      xhr.send();
+    })();
+  </script>
+  <script src="https://unpkg.com/d3@7.8.2" defer></script>
+  <script src="./assets/main.js" type="module" defer></script>
+</body>
+</html>

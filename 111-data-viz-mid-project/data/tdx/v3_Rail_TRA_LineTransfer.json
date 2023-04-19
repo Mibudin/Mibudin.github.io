@@ -1,0 +1,345 @@
+{
+  "UpdateTime": "2023-04-14T00:30:58+08:00",
+  "UpdateInterval": 14400,
+  "SrcUpdateTime": "2023-04-14T00:00:00+08:00",
+  "SrcUpdateInterval": -1,
+  "AuthorityCode": "TRA",
+  "LineTransfers": [
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "3430",
+      "FromStationName": {
+        "Zh_tw": "二水",
+        "En": "Ershui"
+      },
+      "ToLineID": "JJ",
+      "ToLineName": {
+        "Zh_tw": "集集線",
+        "En": "Jiji Line"
+      },
+      "ToStationID": "3430",
+      "ToStationName": {
+        "Zh_tw": "二水",
+        "En": "Ershui"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "NW",
+      "FromLineName": {
+        "Zh_tw": "內灣線",
+        "En": "Neiwan Line"
+      },
+      "FromStationID": "1193",
+      "FromStationName": {
+        "Zh_tw": "竹中",
+        "En": "Zhuzhong"
+      },
+      "ToLineID": "LJ",
+      "ToLineName": {
+        "Zh_tw": "六家線",
+        "En": "Liujia Line"
+      },
+      "ToStationID": "1193",
+      "ToStationName": {
+        "Zh_tw": "竹中",
+        "En": "Zhuzhong"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "4270",
+      "FromStationName": {
+        "Zh_tw": "中洲",
+        "En": "Zhongzhou"
+      },
+      "ToLineID": "SH",
+      "ToLineName": {
+        "Zh_tw": "沙崙線",
+        "En": "Shalun Line"
+      },
+      "ToStationID": "4270",
+      "ToStationName": {
+        "Zh_tw": "中洲",
+        "En": "Zhongzhou"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "1190",
+      "FromStationName": {
+        "Zh_tw": "北新竹",
+        "En": "North Hsinchu"
+      },
+      "ToLineID": "NW",
+      "ToLineName": {
+        "Zh_tw": "內灣線",
+        "En": "Neiwan Line"
+      },
+      "ToStationID": "1190",
+      "ToStationName": {
+        "Zh_tw": "北新竹",
+        "En": "North Hsinchu"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "3350",
+      "FromStationName": {
+        "Zh_tw": "成功",
+        "En": "Chenggong"
+      },
+      "ToLineID": "CZ",
+      "ToLineName": {
+        "Zh_tw": "成追線",
+        "En": "Chengzhui Line"
+      },
+      "ToStationID": "3350",
+      "ToStationName": {
+        "Zh_tw": "成功",
+        "En": "Chenggong"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "EL",
+      "FromLineName": {
+        "Zh_tw": "東部幹線",
+        "En": "Eastern Trunk Line"
+      },
+      "FromStationID": "7130",
+      "FromStationName": {
+        "Zh_tw": "蘇澳新",
+        "En": "Su'aoxin"
+      },
+      "ToLineID": "SU",
+      "ToLineName": {
+        "Zh_tw": "蘇澳新-蘇澳",
+        "En": "Su'aoxin-Su'ao"
+      },
+      "ToStationID": "7130",
+      "ToStationName": {
+        "Zh_tw": "蘇澳新",
+        "En": "Su'aoxin"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "SL",
+      "FromLineName": {
+        "Zh_tw": "南迴線",
+        "En": "South Link Line"
+      },
+      "FromStationID": "6000",
+      "FromStationName": {
+        "Zh_tw": "臺東",
+        "En": "Taitung"
+      },
+      "ToLineID": "EL",
+      "ToLineName": {
+        "Zh_tw": "東部幹線",
+        "En": "Eastern Trunk Line"
+      },
+      "ToStationID": "6000",
+      "ToStationName": {
+        "Zh_tw": "臺東",
+        "En": "Taitung"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "3360",
+      "FromStationName": {
+        "Zh_tw": "彰化",
+        "En": "Changhua"
+      },
+      "ToLineID": "WL-C",
+      "ToLineName": {
+        "Zh_tw": "西部幹線 (海線)",
+        "En": "Western Trunk Line (Coast Line)"
+      },
+      "ToStationID": "3360",
+      "ToStationName": {
+        "Zh_tw": "彰化",
+        "En": "Changhua"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "EL",
+      "FromLineName": {
+        "Zh_tw": "東部幹線",
+        "En": "Eastern Trunk Line"
+      },
+      "FromStationID": "7330",
+      "FromStationName": {
+        "Zh_tw": "三貂嶺",
+        "En": "Sandiaoling"
+      },
+      "ToLineID": "PX",
+      "ToLineName": {
+        "Zh_tw": "平溪線",
+        "En": "Pingxi Line"
+      },
+      "ToStationID": "7330",
+      "ToStationName": {
+        "Zh_tw": "三貂嶺",
+        "En": "Sandiaoling"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "0920",
+      "FromStationName": {
+        "Zh_tw": "八堵",
+        "En": "Badu"
+      },
+      "ToLineID": "EL",
+      "ToLineName": {
+        "Zh_tw": "東部幹線",
+        "En": "Eastern Trunk Line"
+      },
+      "ToStationID": "0920",
+      "ToStationName": {
+        "Zh_tw": "八堵",
+        "En": "Badu"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "1250",
+      "FromStationName": {
+        "Zh_tw": "竹南",
+        "En": "Zhunan"
+      },
+      "ToLineID": "WL-C",
+      "ToLineName": {
+        "Zh_tw": "西部幹線 (海線)",
+        "En": "Western Trunk Line (Coast Line)"
+      },
+      "ToStationID": "1250",
+      "ToStationName": {
+        "Zh_tw": "竹南",
+        "En": "Zhunan"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL-C",
+      "FromLineName": {
+        "Zh_tw": "西部幹線 (海線)",
+        "En": "Western Trunk Line (Coast Line)"
+      },
+      "FromStationID": "2260",
+      "FromStationName": {
+        "Zh_tw": "追分",
+        "En": "Zhuifen"
+      },
+      "ToLineID": "CZ",
+      "ToLineName": {
+        "Zh_tw": "成追線",
+        "En": "Chengzhui Line"
+      },
+      "ToStationID": "2260",
+      "ToStationName": {
+        "Zh_tw": "追分",
+        "En": "Zhuifen"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "WL",
+      "FromLineName": {
+        "Zh_tw": "西部幹線",
+        "En": "Western Trunk Line"
+      },
+      "FromStationID": "5000",
+      "FromStationName": {
+        "Zh_tw": "屏東",
+        "En": "Pingtung"
+      },
+      "ToLineID": "SL",
+      "ToLineName": {
+        "Zh_tw": "南迴線",
+        "En": "South Link Line"
+      },
+      "ToStationID": "5000",
+      "ToStationName": {
+        "Zh_tw": "屏東",
+        "En": "Pingtung"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": ""
+    },
+    {
+      "FromLineID": "EL",
+      "FromLineName": {
+        "Zh_tw": "東部幹線",
+        "En": "Eastern Trunk Line"
+      },
+      "FromStationID": "7360",
+      "FromStationName": {
+        "Zh_tw": "瑞芳",
+        "En": "Ruifang"
+      },
+      "ToLineID": "SA",
+      "ToLineName": {
+        "Zh_tw": "深澳線",
+        "En": "Shenao Line"
+      },
+      "ToStationID": "7360",
+      "ToStationName": {
+        "Zh_tw": "瑞芳",
+        "En": "Ruifang"
+      },
+      "MinTransferTime": 3,
+      "TransferDescription": "1.3 月臺: 平溪線、深澳線"
+    }
+  ]
+}

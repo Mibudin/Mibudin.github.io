@@ -1,0 +1,12 @@
+- `./v3_Rail_TRA_LineNetwork.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/LineNetwork?%24format=JSON`
+- `./v3_Rail_TRA_Station.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/Station?%24format=JSON`
+- `./v3_Rail_TRA_StationOfLine.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/StationOfLine?%24format=JSON`
+- `./v3_Rail_TRA_LineTransfer.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/LineTransfer?%24format=JSON`
+- `./v3_Rail_TRA_Line.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/Line?%24format=JSON`
+- `./v3_Rail_TRA_GeneralTrainTimetable.json`
+    - `https://ptx.transportdata.tw/MOTC/v3/Rail/TRA/GeneralTrainTimetable?%24format=JSON`
