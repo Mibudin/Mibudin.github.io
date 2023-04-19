@@ -4,7 +4,11 @@
 > 
 > 資訊工程學系四年級 A 班
 
-TODO: the link to this page
+---
+
+***網站版，強烈推薦：https://mibudin.github.io/111-data-viz-mid-project/***
+
+---
 
 
 ## 資料集簡介
@@ -51,9 +55,7 @@ TODO: the link to this page
 
 ### 整體程式架構
 
-TODO: the link to the main file
-
-本專案的主要程式撰寫於 `./assets/main.js` 中，如需更多詳細資訊請查看。
+本專案的主要程式撰寫於 [`./assets/main.js`](https://github.com/Mibudin/Mibudin.github.io/blob/main/111-data-viz-mid-project/assets/main.js) 中，如需更多詳細資訊請查看。
 
 此程式所宣告定義的類別如下表所示：
 
@@ -476,7 +478,6 @@ loadRawData().then(
 
 ### 圖表結果
 
-TODO: SVG spare
 
 以下為實際在這個網頁上計算產生出來的長條圖圖表，計算生成過程中的資訊可以直接開起此網頁的開發人員工具查看：
 

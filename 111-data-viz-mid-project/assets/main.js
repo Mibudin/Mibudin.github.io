@@ -223,10 +223,10 @@ async function loadRawData() {
         stationsOfLine,
         trains
     ] = await Promise.all([
-        d3.json("../data/tdx/v3_Rail_TRA_Station.json"),
-        d3.json("../data/tdx/v3_Rail_TRA_Line.json"),
-        d3.json("../data/tdx/v3_Rail_TRA_StationOfLine.json"),
-        d3.json("../data/tdx/v3_Rail_TRA_GeneralTrainTimetable.json")
+        d3.json("./data/tdx/v3_Rail_TRA_Station.json"),
+        d3.json("./data/tdx/v3_Rail_TRA_Line.json"),
+        d3.json("./data/tdx/v3_Rail_TRA_StationOfLine.json"),
+        d3.json("./data/tdx/v3_Rail_TRA_GeneralTrainTimetable.json")
     ]);
 
     console.timeEnd("All loaded");
